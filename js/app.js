@@ -5,3 +5,4 @@
 
 
 var myName = 'This is Wei!';
+var test = "Test";
